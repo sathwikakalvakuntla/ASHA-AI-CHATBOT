@@ -1,0 +1,64 @@
+ [
+    {
+      "name": "Tech Women Summit",
+      "date": "2025-05-01",
+      "time": "10:00 AM",
+      "venue": "Google Meet"
+    },
+    {
+      "name": "AI & ML Webinar",
+      "date": "2025-05-10",
+      "time": "2:00 PM",
+      "venue": "Zoom"
+    },
+    {
+      "name": "Job Fair 2025",
+      "date": "2025-06-15",
+      "time": "9:00 AM",
+      "venue": "Osmania University Auditorium"
+    },
+    {
+      "name": "Resume Building Workshop",
+      "date": "2025-05-05",
+      "time": "11:00 AM",
+      "venue": "Microsoft Teams"
+    },
+    {
+      "name": "Coding Hackathon",
+      "date": "2025-05-20",
+      "time": "10:00 AM",
+      "venue": "T-Hub Hyderabad"
+    },
+    {
+      "name": "Women in Tech Panel",
+      "date": "2025-06-01",
+      "time": "3:00 PM",
+      "venue": "Google Meet"
+    },
+    {
+      "name": "Internship Prep Session",
+      "date": "2025-04-28",
+      "time": "5:00 PM",
+      "venue": "Zoom"
+    },
+    {
+      "name": "LinkedIn Masterclass",
+      "date": "2025-05-12",
+      "time": "6:00 PM",
+      "venue": "Online (YouTube Live)"
+    },
+    {
+      "name": "Startup Pitch Night",
+      "date": "2025-06-10",
+      "time": "7:00 PM",
+      "venue": "WeWork, Bengaluru"
+    },
+    {
+      "name": "Scholarship Guidance Seminar",
+      "date": "2025-04-30",
+      "time": "4:00 PM",
+      "venue": "Google Meet"
+    }
+  ]
+  
+  

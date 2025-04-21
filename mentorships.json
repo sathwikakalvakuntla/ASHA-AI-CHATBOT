@@ -1,0 +1,52 @@
+[
+  {
+    "mentor": "Anjali Mehta",
+    "area": "Python and Web Development",
+    "description": "Expert in Django, Flask, and React. Offers weekly sessions and hands-on coding help."
+  },
+  {
+    "mentor": "Ravi Kumar",
+    "area": "Data Science & Machine Learning",
+    "description": "Guides students in model building, ML algorithms, and Kaggle competitions."
+  },
+  {
+    "mentor": "Swetha Reddy",
+    "area": "UI/UX Design",
+    "description": "Mentors beginners in design tools like Figma, Adobe XD and portfolio building."
+  },
+  {
+    "mentor": "Aarav Shah",
+    "area": "Cybersecurity",
+    "description": "Covers ethical hacking, penetration testing, and career advice in infosec."
+  },
+  {
+    "mentor": "Pooja Nair",
+    "area": "Cloud Computing & DevOps",
+    "description": "Assists with AWS, Azure, Docker, and CI/CD pipelines."
+  },
+  {
+    "mentor": "Nikhil Bansal",
+    "area": "Competitive Programming",
+    "description": "Helps students crack coding rounds and contests on Codeforces and Leetcode."
+  },
+  {
+    "mentor": "Divya Sinha",
+    "area": "Digital Marketing",
+    "description": "Teaches SEO, Google Ads, social media marketing, and freelancing tips."
+  },
+  {
+    "mentor": "Harsha Vardhan",
+    "area": "Mobile App Development",
+    "description": "Guides on building Android apps using Kotlin and Flutter."
+  },
+  {
+    "mentor": "Meena Joshi",
+    "area": "Entrepreneurship",
+    "description": "Mentors aspiring entrepreneurs on business planning and startup funding."
+  },
+  {
+    "mentor": "Siddharth Rao",
+    "area": "AI Research & Academia",
+    "description": "Assists with research papers, PhD applications, and deep learning concepts."
+  }
+]
